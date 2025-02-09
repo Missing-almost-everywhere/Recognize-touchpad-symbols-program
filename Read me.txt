@@ -1,0 +1,7 @@
+The idea behind this project was to create a small Python program that recognizes letters drawn on a touchpad using a neural network trained with PyTorch.
+
+I developed both the interface and the model. The model performs okay, achieving around 87% accuracy, though I know better models exist.
+
+However, it performs poorly on a new dataset consisting of my hand-drawn touchpad symbols. Because of this, I have decided not to continue working on the project.
+
+This project was always meant for learning, so it's not a problem.
